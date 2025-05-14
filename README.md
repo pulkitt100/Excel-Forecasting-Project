@@ -15,3 +15,6 @@ Utilized Excel’s Forecast Sheet feature to automatically generate future view 
 ## Graph Trendline
 ![Screenshot 2025-05-14 224423](https://github.com/user-attachments/assets/1bb7b830-88ef-4a5c-a6e2-274450d6c9c4)
 
+## Conclusion
+
+This project demonstrates how Microsoft Excel can be effectively used for time series forecasting without the need for complex tools or programming. By using the FORECAST function, trendline visualization, and the Forecast Sheet feature, I was able to predict the next week's YouTube views based on historical data. This approach is simple, practical, and ideal for quick forecasting tasks in real-world scenarios.
