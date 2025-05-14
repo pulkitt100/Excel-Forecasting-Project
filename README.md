@@ -1,2 +1,6 @@
-# Microsoft-Excel-Forecasting-Project
-This project showcases time series forecasting using Microsoft Excel. It includes data preprocessing, trend analysis, and future value prediction using built-in Excel functions and charts. Ideal for those looking to understand forecasting techniques without advanced programming.
+#YouTube Views Forecasting Using Microsoft Excel
+##Project Objective
+The objective of this project is to analyze historical view data of a YouTube channel and forecast the expected number of views for the upcoming week using Microsoft Excel. This project aims to demonstrate how basic forecasting techniques and Excel functions can be used to generate actionable insights without the need for programming.
+
+#Dataset used 
+https://bit.ly/3WyawPs
