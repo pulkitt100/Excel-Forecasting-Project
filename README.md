@@ -11,3 +11,7 @@ Plotted a line chart and added a trendline to visualize the overall data trend a
 
 3.Used Forecast Sheet:
 Utilized Excel’s Forecast Sheet feature to automatically generate future view predictions with confidence intervals.
+
+## Graph Trendline
+![Screenshot 2025-05-14 224423](https://github.com/user-attachments/assets/1bb7b830-88ef-4a5c-a6e2-274450d6c9c4)
+
